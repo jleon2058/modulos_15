@@ -29,7 +29,6 @@
     'depends': [
         'base',
         'account',
-        'ind_account'
     ],
 
     'data': [
